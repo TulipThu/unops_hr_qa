@@ -1,0 +1,3 @@
+[submodule "careersmarketplace-tests"]
+	path = careersmarketplace-tests
+	url = https://github.com/TulipThu/careersmarketplace-tests.git
